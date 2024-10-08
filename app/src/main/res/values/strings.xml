@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AvcSocketConnectionExample</string>
+
+    <string name="app_get_chats">Get All Chats</string>
+
+    <string name="app_socket_connection_status">Socket connection status: %s</string>
+
+</resources>
